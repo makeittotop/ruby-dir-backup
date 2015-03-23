@@ -1,0 +1,36 @@
+---
+- !ruby/object:Backup::Package
+  trigger: tactic_backup
+  extension: tar
+  chunk_suffixes: []
+  no_cycle: false
+  version: 4.1.2
+  time: 2015.03.23.01.30.02
+- !ruby/object:Backup::Package
+  trigger: tactic_backup
+  extension: tar
+  chunk_suffixes: []
+  no_cycle: false
+  version: 4.1.2
+  time: 2015.03.21.01.30.02
+- !ruby/object:Backup::Package
+  trigger: tactic_backup
+  extension: tar
+  chunk_suffixes: []
+  no_cycle: false
+  version: 4.1.2
+  time: 2015.03.19.01.30.03
+- !ruby/object:Backup::Package
+  trigger: tactic_backup
+  extension: tar
+  chunk_suffixes: []
+  no_cycle: false
+  version: 4.1.2
+  time: 2015.03.17.01.30.02
+- !ruby/object:Backup::Package
+  trigger: tactic_backup
+  extension: tar
+  chunk_suffixes: []
+  no_cycle: false
+  version: 4.1.2
+  time: 2015.03.15.01.30.02
